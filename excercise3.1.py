@@ -18,3 +18,4 @@ for num in range(101):
 
 print(div_by_5)
 print(div_by_5_squared)
+print("excellent")
